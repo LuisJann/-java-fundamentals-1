@@ -10,8 +10,10 @@ public class FizzBuzz {
         int num = Integer.parseInt(scan.nextLine());
         boolean check = true;
 
-        //check value
+
+        // Loop
         while (check) {
+            //check value
             if (num > 0 && num < 1000) {
 
                 //OUTPUT
